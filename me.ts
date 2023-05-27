@@ -12,7 +12,7 @@ addTwo(5)
 
 console.log(addTwo(5   ))
 
-function getUpper(value: string)
+function getUpper(value: string) 
 {
 return value.toUpperCase()
 
